@@ -2,6 +2,8 @@
 
 WebFileChecker extension / module for Wordpress-WooCommerce / tool / checks detects modified / hacked files / configuration
 
+(see https://wordpress.org/support/topic/free-webfilechecker-tool-checks-detects-modified-hacked-files-config/)
+
 E.g. why is there an error suddenly, has somebody files modified / hacked or was there an update from outside, what has a programmer / supplier modified, have you been hacked etc. Solution a Web File Checker / Detector or a Web Hacked Checker / Detector. Check your webstore on or detect modifications and configuration settings.
 
 I created a module for Magento and because I am too busy I created 1 program for all other webshops that can be run as an cronjob. When I have extra time, I will create a module for the settings of this cronjob and to view the modifications log. If somebody else want to do this job I will update this download and put his/her name on this page. Currently you find all the settings in the beginning of this cronjob like your email address to set. The installation asks for minimal technical skills (or ask your programmer).   
