@@ -37,7 +37,7 @@ Installation:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered here.
+No support (too busy), but a few questions will be answered in the Wordpress forum (see link above).
 
 Only bugs will be fixed later concerning the extension itself.
 
