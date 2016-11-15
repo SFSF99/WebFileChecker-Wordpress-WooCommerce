@@ -22,7 +22,7 @@ In the protected directory you can find the webfilechecks log with modifications
 
 If you create a backup from these few files and later restore, you can determine the changes always again since your last backup! There are only 3 files in the protected wfc-cronjob directory: 1) ooa_wfc_ref.log (reference log files) 2) ooa_wfc_ref_conf.log (reference log configuration variables) 3) ooa_wfc_mod.log (changes compared to both reference logs). Through restoring 1) and 2) changes can be determined again. If you for example have been hacked, you can easily see which files have been modified!
 
-PLease don't touch the reference logs, these logs are necessary for comparisations in a next run.
+PLease don't touch the reference logs, these logs are necessary for comparisons in a next run.
 
 Language English.
 
