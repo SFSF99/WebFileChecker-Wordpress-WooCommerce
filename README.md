@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Wordpress-WooCommerce / tool / checks detects modified / hacked files / configuration
 
-(see https://wordpress.org/support/topic/free-webfilechecker-tool-checks-detects-modified-hacked-files-config/)
+(see http://ooawebstore.freeforums.org/)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
