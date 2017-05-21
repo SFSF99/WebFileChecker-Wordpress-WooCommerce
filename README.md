@@ -1,4 +1,4 @@
-# WebFileChecker-Wordpress-WooCommerce
+# WebFileChecker-Wordpress-WooCommerce ("Web File Checker")
 
 WebFileChecker extension / module for Wordpress-WooCommerce / tool / checks detects modified / hacked files / configuration
 
